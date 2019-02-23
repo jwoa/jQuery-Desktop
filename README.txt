@@ -1,4 +1,4 @@
-Do with this code whatever you like.
+meatsweat.co
 
 It is dual licensed under MIT and GPL.
 
